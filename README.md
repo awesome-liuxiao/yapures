@@ -1,3 +1,3 @@
-#Yapures - Yet another PureScript#
-
-##Introduction##
+Yapures - Yet another PureScript
+==================================
+## Introduction
