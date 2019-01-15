@@ -1,0 +1,11 @@
+var startConsole = function(){
+	console.log("running...")
+}
+var renderWebInfo = function(){
+	document.getElementById("demo").innerHTML = "Hello, let's calculate fibonnacci value";
+}
+
+//athere
+var tmpFunc = function(){
+	echo("tmp func")
+}
